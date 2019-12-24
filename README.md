@@ -1,4 +1,4 @@
-# Othello-
+# Othello
 My Othello game in C++ done for a school assignment. 
 
 The game is human vs computer. The computer uses basic AI to choose its move.
