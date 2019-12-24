@@ -9,4 +9,7 @@ The number of swaps is what I call points.
 I run calculateMostPoints() function for each value in the valid moves vector (8 * O(n)) and save their points result to a vector called points.
 Then I find the max_element of that points vector and choose it to be the value I choose to do the outflank with.
 
+Summary:
+The computer finds every valid move it can play and chooses to play the move which gives it the most points (swaps). 
+
 Complexity: O(n^2)
