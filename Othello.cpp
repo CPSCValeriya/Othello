@@ -7,18 +7,10 @@ using namespace std;
 #include  <algorithm>
 
 /*
-Name: Valeriya Kistrina
-Student #: 100306343
-Class: CPSC 1160 - 001
-Assignment: Lab 7 Problem 2
-Purpose: Implement the Othello game with human vs computer game play.
+Implementation of the Othello game with human vs computer game play.
 The user chooses whether they want to play black or white but the rule is black always plays first.
 The rule of the game is that the opponents piece has to be in between your piece and your placed piece.
 Press q to quit and see result or play until the end.
-
-
-NOTE: I wrote my code on a different IDE and there were no errors but on Scite I am recieving many warning messages. Please disregard the warning messages, the code is still running properly. 
-
 */
 
 
